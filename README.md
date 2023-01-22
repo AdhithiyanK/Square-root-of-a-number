@@ -30,7 +30,8 @@ sq(x)
 ~~~
 
 ## Output:
-![sqrt](sq.png)
+![sqrt](
+Screenshot_20230122_110836.png )
 
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
